@@ -1,5 +1,5 @@
 # Keras
-Keras using trough clothes
+Keras using through clothes
 #import libraries#
 import tensorflow as tf
 from tensorflow import keras
